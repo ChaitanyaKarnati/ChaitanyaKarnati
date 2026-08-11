@@ -1,6 +1,6 @@
 # Chaitanya Karnati 👋
 
-AI Software Engineer at Cencora (formerly AmerisourceBergen)
+Software Engineer at Cencora (formerly AmerisourceBergen)
 
 ## About Me
 
