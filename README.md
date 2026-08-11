@@ -75,7 +75,7 @@ I'm a software engineer with 6+ years building enterprise platforms end to end â
 
 ## Featured Project
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/ChaitanyaKarnati/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github)]([https://github.com/ChaitanyaKarnati/Portfolio](https://chaitanyakarnati.github.io/Portfolio/))
 
 ## Connect With Me
 
